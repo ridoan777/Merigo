@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "merigo-jacob-custom",
+  "private_key_id": "903c9839ea62abe9d8958cda0d2adc3d9a61cddb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqdRhU19cMWGvS\nPPCLNx6qwZ3Y3knkmeIFNXYOYMijPVkklAzb6+L/UwkTvgrGiEe5yuQBSO5wLMto\nba9UtRZCyQdHxRNPsgSQ68c+0KLHgC7K6sLjlHCsNz3eZUi3kg8sltuKxSS1jxWY\nWmKal7Zp+TvOezk5Ro6oW82LwS35CJVSGPlv166/M2J/sUO/63jjYAIrf4+RappE\nTAswWB13igk04sEBED+FHrJSRECeAE3LXThUk4ORZzTRS/M1RP8KjBDq6CSyY9yK\nUJzEig7vZHulrqmxUAOHZE5znyxDRdd/Vj8QCyiCFGt171wnbLvWAXjKWjUR/Kal\nTOCFL5PXAgMBAAECggEAL2VAnzKmplWdoUb1gVgRrFwKlkb0l94bxOQBD+1kTFNe\nCngp/SphIypE71rbpyk0fFoIPL05IzKpWj+JTU3Ow0IfRprrDDFM6LjOXU5ovH0N\nRbmx99KJ47C2gLR73CL+GiFWKQc49kyzLfoPyblebKfys656kkzmlLR1+iJ8NG50\n0bwoVXZv7fuWykL24JHGb4rsLjKAqb3uw+IYMnu5DbrxzPM3CIVmaR14bz4tCAaY\n81VUbODopGRAnG/MWm/vkFi2Y5C3kzWEhtCI/xNg3wAiWa0acBmXq68sOizxEf3H\nl4kpf1FD0KyGbmsLEcNMKMEh4QslOQ/OcH/S85zPuQKBgQDXVxnKSjkH/iyrk+Es\nPIcPWStwSlFK+5mU/eaacAZ8aF4Au7Hsg8QBPiQsymniAn7mpqAa1UYyF4BagLmg\nBgxnE5RARn90LpBITbVNB8OZxrp5451DmpFr5K5VXgm/BNj+Sn00iq6Lm0ZBB3dE\nxtMhHrgjwujCcReP+77u2uA1vwKBgQDKpH47PbdbeAeU6y8irm9Vv3yNMyMzGS0f\nds9Ay51y4BEzLO2Joqdl+nGVHyBc2TneMSkm71sQgupYBMYYy5k/a28MhTShbYXo\ngmnDzE7Dvb9VrgrZvaXnusc50n4NsYb2rQeck8A3Inb+L7UeU7vAIGaX6znskTAr\ny0nUiVWX6QKBgHXFslo7m9NuRPoV58ns1KUlTKeeTbWnw0iEUJHYgQObhQX7oYTM\nT++qD9jbX2t3l/YH3XqveDO/PLjCvELz6+aYA7XfmKdvLAQPU//sJiM9WBF/1iv6\nJlyO9nXD96qcOR1imfWZf3rlElhQf/+CikgL6APO/sQRXCSoN7WkyYk7AoGAYRF0\niiohB8ayUwppVMKcAEYugnCpftOjgrvlwVMHw7xDYPE3g8OPTlEuUVFMrk075AxG\neykSxREA8lKvFbeJXBC5bBTuxhjxmRPHWAwo+qiM25z4A59NtngI8NC8oxCT5tux\nlrZLz91JhK8TokhX2ktq+YCrCX/uxDunzRBQGOkCgYEAwaE5qhMaeq9E2j5NYwnR\nuU85wmviA+0kpXzg8fRQ5IwHc4M12b37bjdYIwF60Z0Yz5nsPwk/1Bbe99YxpmqF\neGJkc3uq7eKxiwcI0+veklWnAOqDZoBnx5EjEzY6IqVdsNnB2IK53lnEez/aqwxV\npxB2GZNxgMQKK0PT0TWjIoc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@merigo-jacob-custom.iam.gserviceaccount.com",
+  "client_id": "105178219650148027605",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40merigo-jacob-custom.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
